@@ -1,0 +1,6 @@
+options:
+    noperm: "&cYou don't have permission!"
+
+command plugins:
+    trigger:    
+        send {@noperm}
